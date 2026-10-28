@@ -2,8 +2,7 @@
 
 Sluttprosjekt i maskinlæring. Vi har laget en nettside der brukeren stiller inn 11 kjemiske målinger for en vin og får et anslag på om vinen blir vurdert som **lav**, **middels** eller **høy** kvalitet.
 
-**Nettside:** [legg inn lenke til Streamlit-appen, eller skriv «se video»]
-**Video av nettsiden:** [legg inn lenke hvis dere har laget en]
+**Nettside:** (https://vintestinggit.streamlit.app/)
 **Rapport:** [legg inn filnavnet på rapporten i repoet, f.eks. `Rapport.pdf`]
 
 **Gruppe:** [navn 1], [navn 2]
