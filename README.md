@@ -3,7 +3,7 @@
 Sluttprosjekt i maskinlæring. Vi har laget en nettside der brukeren stiller inn 11 kjemiske målinger for en vin og får et anslag på om vinen blir vurdert som **lav**, **middels** eller **høy** kvalitet.
 
 **Nettside:** (https://vintestinggit.streamlit.app/)
-**Rapport:** [legg inn filnavnet på rapporten i repoet, f.eks. `Rapport.pdf`]
+**Rapport:** Prosjektrapport VinTesting.pdf
 
 **Gruppe:** Tor Nes, Sander Kleppe
 
