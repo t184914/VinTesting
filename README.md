@@ -5,7 +5,7 @@ Sluttprosjekt i maskinlæring. Vi har laget en nettside der brukeren stiller inn
 **Nettside:** (https://vintestinggit.streamlit.app/)
 **Rapport:** [legg inn filnavnet på rapporten i repoet, f.eks. `Rapport.pdf`]
 
-**Gruppe:** [navn 1], [navn 2]
+**Gruppe:** Tor Nes, Sander Kleppe
 
 ## Hva prosjektet gjør
 
