@@ -82,9 +82,6 @@ Nettleseren åpner seg automatisk (vanligvis på `http://localhost:8501`).
 - UCI Machine Learning Repository: [Wine Quality (id 186)](https://archive.ics.uci.edu/dataset/186/wine+quality)
 - Verktøy: pandas, scikit-learn, matplotlib, joblib, ucimlrepo og Streamlit.
 
-## Bruk av AI-verktøy
-
-Vi har brukt Claude (Anthropic) som hjelp til idéutvikling og til å skrive utkast til kode og rapport. [Beskriv kort hva dere selv gjorde og forsto, og hva dere endret eller sjekket.]
 
 ## Begrensninger
 
